@@ -1,0 +1,18 @@
+body{
+    font-family: san-serif;
+    font-size: large;
+    color: #303524;
+    background-color:rgb(146, 163, 117);
+    display: block;
+}
+.photoColumn{
+    border-radius: 10%;
+    margin: auto; 
+    padding: auto;
+}
+.bioColumn{
+
+    padding: auto;
+    text-align: center;
+    background-color: rgb(91, 148, 91);
+}
